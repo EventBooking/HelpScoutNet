@@ -1,0 +1,15 @@
+{
+  "name": "helpscoutclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "publish.js",
+  "dependencies": {
+    "@vops/nuget": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node publish.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
