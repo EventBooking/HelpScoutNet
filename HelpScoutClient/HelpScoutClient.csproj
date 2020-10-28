@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <Version>7.1.1</Version>
+    <Version>15.1.2</Version>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <PackageId>HelpScoutNet</PackageId>
     <PackageProjectUrl>https://github.com/EventBooking/HelpScoutNet</PackageProjectUrl>
